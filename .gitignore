@@ -7,8 +7,8 @@ include
 .pyc
 .sublime-project
 .sublime-workspace
-calllist.sublime-project
-calllist.sublime-workspace
+*.sublime-project
+*.sublime-workspace
 
 
 # Byte-compiled / optimized / DLL files
